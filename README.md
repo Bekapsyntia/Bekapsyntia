@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bekapsyntia
-- 👀 I’m interested in ..becoming a world class computer engineer.
+- 👀 I’m interested in becoming a world class computer engineer.
 - 🌱 I’m currently learning .web development with PHP..
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..you can reach me through syntiayoudas@gamail.com.
+- 📫 How to reach me you can reach me through syntiayoudas@gmail.com.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
